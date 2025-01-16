@@ -11,14 +11,14 @@ This is a simple and interactive weather application built with **ReactJS** that
 - Clean and responsive user interface.
 
 # Demo
-You can view the demo of the application by visiting the live demo ().
+You can view the demo of the application by visiting the live demo (<https://thireka07.github.io/Weather-App/>).
 
 # Technologies Used
 
-**ReactJS:** JavaScript library for building user interfaces.
-**OpenWeatherMap API:** API service used to fetch current weather data.
-**CSS:** Styling and layout, including responsive design.
-**JavaScript (ES6):** For the functionality of the app.
+- **ReactJS:** JavaScript library for building user interfaces.
+- **OpenWeatherMap API:** API service used to fetch current weather data.
+- **CSS:** Styling and layout, including responsive design.
+- **JavaScript (ES6):** For the functionality of the app.
 
 # Functionality
 

@@ -37,6 +37,6 @@ You can view the demo of the application by visiting the live demo (<https://thi
 
 # Troubleshooting
 
-- **Invalid API Key:** If you encounter issues with the API key, ensure that your key is correctly inserted in App.js. If it still doesn't work, check the key validity on your OpenWeatherMap account.
+- **Invalid API Key:** If you encounter issues with the API key, ensure that your key is correctly inserted in App.jsx. If it still doesn't work, check the key validity on your OpenWeatherMap account.
 
 - **City Not Found:** If a city is not found, ensure the city name is spelled correctly. The OpenWeatherMap API requires the city name to be accurate.

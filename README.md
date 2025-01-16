@@ -15,10 +15,10 @@ You can view the demo of the application by visiting the live demo (<https://thi
 
 # Technologies Used
 
-- **ReactJS:** JavaScript library for building user interfaces.
-- **OpenWeatherMap API:** API service used to fetch current weather data.
-- **CSS:** Styling and layout, including responsive design.
-- **JavaScript (ES6):** For the functionality of the app.
+**ReactJS:** JavaScript library for building user interfaces.
+**OpenWeatherMap API:** API service used to fetch current weather data.
+**CSS:** Styling and layout, including responsive design.
+**JavaScript (ES6):** For the functionality of the app.
 
 # Functionality
 

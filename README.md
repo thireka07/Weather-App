@@ -11,14 +11,14 @@ This is a simple and interactive weather application built with **ReactJS** that
 - Clean and responsive user interface.
 
 # Demo
-You can view the demo of the application by visiting the live demo (<https://thireka07.github.io/Weather-App/>).
+You can view the demo of the application by visiting the live demo (<https://thireka07.github.io/Weather-App>).
 
 # Technologies Used
 
-**ReactJS:** JavaScript library for building user interfaces.
-**OpenWeatherMap API:** API service used to fetch current weather data.
-**CSS:** Styling and layout, including responsive design.
-**JavaScript (ES6):** For the functionality of the app.
+- **ReactJS:** JavaScript library for building user interfaces.
+- **OpenWeatherMap API:** API service used to fetch current weather data.
+- **CSS:** Styling and layout, including responsive design.
+- **JavaScript:** For the functionality of the app.
 
 # Functionality
 
@@ -34,8 +34,6 @@ You can view the demo of the application by visiting the live demo (<https://thi
 - Wind speed.
 
 **Error Handling:** If the city is not found, or if there's an issue fetching the data, the app will display a relevant error message.
-
-**Weather Description:** A description of the current weather (e.g., "Sunny", "Cloudy", "Rainy") will be shown.
 
 # Troubleshooting
 
